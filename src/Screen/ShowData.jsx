@@ -14,7 +14,7 @@ const ShowData = () => {
       },
       {
         headers: {
-          Authorization: `Bearer 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`,
+          Authorization: `Bearer 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`,
         },
         responseType: "blob",
       }
